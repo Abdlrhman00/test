@@ -1,0 +1,13 @@
+{
+  "name": "vercel-simple-api",
+  "version": "1.0.0",
+  "description": "Simple Express API for Vercel deployment test",
+  "main": "api/hello.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
